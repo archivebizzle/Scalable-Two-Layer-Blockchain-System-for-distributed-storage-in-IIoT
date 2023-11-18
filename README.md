@@ -1,6 +1,7 @@
 # Scalable-Two-Layer-Blockchain-System-for-distributed-storage-in-IIoT
 In this application, we are carrying out cryptography strategies which includes applying a technique called a calculation to plain text to transform it into something that will give off an impression of being babble to any individual who doesn't have the way to unscramble it. Here the client ought to enroll their subtleties and can login, henceforth they can ready to see the rundown of document put away in this application and the substance of the record can't see the client since it would be encoded when the record is transferred in this application. The client can transfer their intrigued record and can download with the entrance of administrator. While transferring the document is changed over completely to non intelligible code and the key too. The administrator is keep up with the subtleties of downloader and the uploader subtleties. Then the client can download the document of who intrigued with the assistance of decoded key.
 
+
 While blockchain offers better network security, data privacy, and decentralization, the cloud provides high scalability and elasticity. Hence, cloud and blockchain together have the potential to create innovative solutions, in particular with a distributed cloud like Ridge Cloud.
 
 Blockchain is a type of distributed database that stores data electronically in blocks and then creates a chain of these data blocks using cryptography. Blocks in blockchain are essentially information containers where data is encrypted and stored.
