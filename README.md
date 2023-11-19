@@ -8,7 +8,7 @@ Blockchain is a type of distributed database that stores data electronically in 
 
 A block itself consists of several components, such as a block header and block body. Each block in the chain has a timestamp that shows the exact time the block was added to the chain, a cryptographic hash of the previous block, and stored data.
 
-RSA Algorithm 
+RSA Algorithm:
 
 The RSA algorithm is an asymmetric cryptographic system, which enables public-key encryption and is widely used to secure sensitive data. It is particularly useful for sending information over an insecure network such as the internet.
 
